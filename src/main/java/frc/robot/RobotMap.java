@@ -16,7 +16,7 @@ package frc.robot;
 public class RobotMap {
 
 public static enum CANSparkMaxID{
- kMotor1(1,"motor1");
+ kMotor1(12,"motor1");
 
 public final int id;
 
